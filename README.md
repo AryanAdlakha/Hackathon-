@@ -1,2 +1,6 @@
-# Hackathon-
-CC
+# Collision Avoidance System
+Approach
+As part of the approach using Neuro-Fuzzy Logic, we will need to collect data from various sensors installed on the unmanned vehicles. The data collected from these sensors will be used to train and test the model.
+The sensors that will be used for data collection will include cameras and Lidar sensors. These sensors will provide information about the environment surrounding the unmanned vehicle. For example, cameras can capture visual data of the environment, while LIDAR can provide depth and distance information about objects in the environment.
+To collect the data, the unmanned vehicle will be equipped with the necessary sensors, and a test driver will operate the vehicle under different conditions, such as various speeds, lighting conditions, and road types. The data collected will include video feeds from the cameras, depth and distance information from LIDAR sensors, and other relevant information such as the speed and position of the vehicle. The data will be collected every 50 milliseconds.
+In conclusion, data collection is an essential part of the approach to create an AI-based fully autonomous collision system for unmanned vehicles using Neuro-Fuzzy Logic. By collecting data from various sensors installed on the unmanned vehicle, we can train and test the model to recognize potential hazards and take appropriate actions to avoid collisions, thereby improving the safety and efficiency of unmanned vehicle transportation
